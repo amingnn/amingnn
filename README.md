@@ -4,6 +4,6 @@
 
 <p align="">
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amingnn&layout=compact&theme=transparent&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=AmingNN&show_icons=true&theme=transparent&hide_border=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=amingnn&show_icons=true&theme=transparent&hide_border=true&count_private=true" />
   
 </p>
