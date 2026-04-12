@@ -3,7 +3,6 @@
 </p>
 
 <p align="">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amingnn&layout=compact&theme=transparent&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=amingnn&show_icons=true&theme=transparent&hide_border=true&count_private=true" />
-  
+  <img height="160" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=amingnn&layout=compact&theme=transparent&hide_border=true&cache_seconds=1800" />
+  <img height="160" src="https://github-readme-stats-eight-theta.vercel.app/api?username=amingnn&show_icons=true&theme=transparent&hide_border=true&count_private=true&cache_seconds=1800" />
 </p>
