@@ -1,8 +1,3 @@
-<p align="">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=阿铭同学天天开心;逻辑没闭环，键盘死里弹;给代码做减法，给逻辑做加法;在算法的世界里寻找全局最优解;今天也是与Bug打成一片呢&center=false&size=27&loop=true" />
-</p>
-
-<p align="">
-  <img height="160" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=amingnn&layout=compact&theme=transparent&hide_border=true&cache_seconds=1800" />
-  <img height="160" src="https://github-readme-stats-eight-theta.vercel.app/api?username=amingnn&show_icons=true&theme=transparent&hide_border=true&count_private=true&cache_seconds=1800" />
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&duration=2000&pause=1000&multiline=true&repeat=false&width=500&height=200&lines=诶，这里是阿铭的个人空间吗？;啊对的对的......等一下；;啊不对不对，走错了走错了；;啊对的对的！这就是阿铭的快乐老家！" />
 </p>
